@@ -1,0 +1,19 @@
+# macOS/system
+.DS_Store
+
+# Claude/local session files
+.claude/
+
+# Android NDK build outputs
+llm_cmdline_tool/obj/
+llm_cmdline_tool/libs/
+
+# Large model/runtime artifacts
+*.dla
+*.bin
+*.so
+*.a
+
+# Editor files
+.vscode/
+.idea/
